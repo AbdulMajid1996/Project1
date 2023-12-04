@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbarStyle {
+    background-color: rgba(101, 85, 59, 0.28);
+    padding-bottom: 20px;
+}
